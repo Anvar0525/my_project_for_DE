@@ -13,6 +13,8 @@
 ### [Data Engineering Буткемп](https://roadmapde.roadmappers.ru/content)
 Полный роадмап по Data Engineering от основ до Senior уровня.
 
+### [Видео по ДЕ технологиям](https://cloud.mail.ru/public/A7yo/m8v2rTm8C)
+
 ## Airflow
 
 ### Цикл статей "Все, что вам нужно знать об Airflow DAGs"
